@@ -35,6 +35,7 @@ terraform validate
 
 ## Docs
 - Full lab guide: `docs/lab-eks-grafana.md`
+- Study guide: `docs/estudo/README.md`
 - Implementation plan: `docs/plans/2026-01-30-terraform-eks-grafana-lab-implementation.md`
 
 ## Cleanup
